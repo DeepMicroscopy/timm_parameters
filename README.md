@@ -19,9 +19,7 @@ This repository can be useful for:
 - Selecting appropriate models based on resource constraints
 - Working with models having comparable parameters
 
----
-
-> Feel free to explore, contribute, or use this resource to streamline your model evaluation process.
+Feel free to explore, contribute, or use this resource to streamline your model evaluation process!
 
 
 
